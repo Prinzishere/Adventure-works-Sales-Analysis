@@ -17,7 +17,7 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 
 ## DATA VISUALIZATION
 ##### i. Entity Relationship Diagram Model
-![1  Model Relations](https://user-images.githubusercontent.com/45898995/119708373-e8bfb780-be7d-11eb-90b2-5da0afdedcce.PNG)
+![1  Model Relations](https://raw.githubusercontent.com/Prinzishere/Adventure-works-Sales-Analysis/refs/heads/main/Visualization%20(Screenshots)/1.%20ER%20diagram.png)
 
 #### ii. Sales Overview DASHBOARD
 ![2  Sales Overview](https://user-images.githubusercontent.com/45898995/119709090-a64aaa80-be7e-11eb-91bc-4870483b1401.png)
