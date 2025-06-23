@@ -20,13 +20,12 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 ![1  Model Relations](https://raw.githubusercontent.com/Prinzishere/Adventure-works-Sales-Analysis/refs/heads/main/Visualization%20(Screenshots)/1.%20ER%20diagram.png)
 
 #### ii. Sales Overview DASHBOARD
-![2  Sales Overview]([https://user-images.githubusercontent.com/45898995/119709090-a64aaa80-be7e-11eb-91bc-4870483b1401.png](https://github.com/Prinzishere/Adventure-works-Sales-Analysis/blob/main/Visualization%20(Screenshots)/2.%20Sales%20Overview.png))
-
+![2  Sales Overview](https://github.com/Prinzishere/Adventure-works-Sales-Analysis/blob/main/Visualization%20(Screenshots)/2.%20Sales%20Overview.png)
 #### iii. Customer Details DASHBOARD
-![3  Customer Details](https://user-images.githubusercontent.com/45898995/119709961-a4351b80-be7f-11eb-87b8-13c6315b6eba.png)
+![3  Customer Details](https://github.com/Prinzishere/Adventure-works-Sales-Analysis/blob/main/Visualization%20(Screenshots)/3.%20Customer%20Details.png)
 
 #### iv. Product Details DASHBOARD
-![4  Product Details](https://user-images.githubusercontent.com/45898995/119710084-c464da80-be7f-11eb-90b3-8e50a0f4ae20.png)
+![4  Product Details](https://github.com/Prinzishere/Adventure-works-Sales-Analysis/blob/main/Visualization%20(Screenshots)/4.%20Product%20details.png)
 
 
 
