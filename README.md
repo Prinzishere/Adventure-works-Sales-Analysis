@@ -26,7 +26,3 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 
 #### iv. Product Details DASHBOARD
 ![4  Product Details](https://github.com/Prinzishere/Adventure-works-Sales-Analysis/blob/main/Visualization%20(Screenshots)/4.%20Product%20details.png)
-
-
-
-##### Note: *The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.*
